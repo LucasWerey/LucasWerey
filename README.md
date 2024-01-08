@@ -4,7 +4,7 @@
 
 ### Engineering student and web developer
 
-- 🔭 I’m currently working on [End of study project](https://github.com/LucasWerey/DSLIB-PFE.git)
+- 🔭 I’m currently working on [End of study project](https://github.com/LucasWerey/Hook)
 
 - 🌱 I’m currently learning **Rust**
 
