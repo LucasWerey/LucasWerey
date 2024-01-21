@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **lucas.werey@hotmail.com**
 
-## Connect with me:
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaswerey/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/lucaswry)
