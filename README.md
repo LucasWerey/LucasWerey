@@ -45,5 +45,5 @@
 
 ## Stats 📊
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaswerey&show_icons=true&locale=en&layout=compact" alt="lucaswerey" /></p>
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lucaswerey&" alt="lucaswerey" /></p>
+![lucaswerey's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucaswerey&theme=vue-dark&hide_border=false)
+![lucaswerey's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaswerey&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
