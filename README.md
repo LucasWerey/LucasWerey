@@ -1,4 +1,4 @@
-![Header](./assets/Header.png)
+![Header](./assets/Background.png)
 
 # Hello 👋, I'm Lucas WEREY
 
