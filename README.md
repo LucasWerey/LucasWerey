@@ -1,5 +1,3 @@
-![Header](./assets/Background.png)
-
 # Hello 👋, I'm Lucas WEREY
 
 ### Engineering student and web developer
