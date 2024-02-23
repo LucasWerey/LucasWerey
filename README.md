@@ -2,7 +2,7 @@
 
 ### Engineering student and web developer
 
-- 🔭 I’m currently working on [End of study project](https://github.com/LucasWerey/Hook)
+- 🔭 I’m currently working at Ledger
 
 - 🌱 I’m currently learning **Rust**
 
