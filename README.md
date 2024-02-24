@@ -1,6 +1,6 @@
 # Hello 👋, I'm Lucas WEREY
 
-### Engineering student and web developer
+### Engineering student and developer
 
 - 🔭 I’m currently working at **Ledger**
 
