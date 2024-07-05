@@ -1,10 +1,8 @@
 # Hello 👋, I'm Lucas WEREY
 
-### Engineering student and developer
+### Software Engineer
 
 - 🔭 I’m currently working at **Ledger**
-
-- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **lucas.werey@hotmail.com**
 
